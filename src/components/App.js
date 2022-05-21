@@ -1,6 +1,6 @@
 import React from "react";
 
-const App = () => {
+function App() {
   return (
     <div className="App">
       <h1>Hello World this is Assignment of React Js</h1>
