@@ -1,10 +1,8 @@
-import React from "react";
-import '../styles/App.css'
-export default function App() {
+import React from 'react'
+const App = () => {
   return (
-    <React.Fragment>
-      <h1>Hello World this is Assignment of React Js</h1>
-      <p>I want to complete 18 mock in 9 days</p>
-    </React.Fragment>
-  );
-}
+      <p>Now I can render any React component on any DOM node I want using ReactDOM.render</p>
+  )
+};
+
+export default App;
